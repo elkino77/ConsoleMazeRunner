@@ -6,3 +6,4 @@ Crear una interfaz de usuario donde el usuario pueda:
   - Grafica algún tipo de mapa conforme vas avanzando en el laberinto.
 
 
+Aplición de consola en .Net 8
